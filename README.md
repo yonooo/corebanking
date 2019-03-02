@@ -1,0 +1,2 @@
+# corebanking
+Core Banking Syariah
